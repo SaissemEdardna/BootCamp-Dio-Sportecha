@@ -1,5 +1,5 @@
 # BootCamp-Dio-Sportheca:computer:/:football:
-​		Anotações que foram feitas durante o  bootcamp realizado pela Digital Innovation One - DIO em parceria com a  Sportecha. O objetivo do bootcamp era traçar uma trilha percorrendo por diversas tecnologias que passavam por Java, Kotlin e Android com o intuito de aperfeiçoar o desenvolvimento mobile.  
+​		Anotações que foram feitas durante o  bootcamp realizado pela Digital Innovation One - DIO em parceria com a  Sportheca. O objetivo do bootcamp era traçar uma trilha percorrendo por diversas tecnologias que passavam por Java, Kotlin e Android com o intuito de aperfeiçoar o desenvolvimento mobile.  
 
 ​	Ao fim de cada módulo foi realizado testes de proficiência com o intuito de avaliar o aprendizado  durante as atividades propostas. Após  aprovação em cada etapa foi gerado um certificado que se encontra junto as anotações em seus respectivos diretórios.
 
